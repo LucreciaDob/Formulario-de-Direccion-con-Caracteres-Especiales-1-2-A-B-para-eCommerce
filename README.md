@@ -8,6 +8,6 @@ En muchos formularios de direcciones, solo se permiten números enteros, lo que 
 ✅ **Fácil integración** en formularios de e-commerce y checkout.  
 
 ## 📦 Instalación y Uso  
-1. **Descarga** el archivo `index.html` o clona el repositorio:  
+1. **Descarga** el archivo `dire-caracter-especial.html` o clona el repositorio:  
    ```sh
-   git clone https://github.com/TU_USUARIO/direccion-valor-adicional.git
+   git clone https://github.com/TU_USUARIO/Formulario-de-Direccion-con-Caracteres-Especiales-1-2-A-B-para-eCommerce.git
